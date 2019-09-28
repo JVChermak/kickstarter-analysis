@@ -35,15 +35,15 @@ Based on the number of successful campaigns in theater, it would be reasonable f
 
 ###Challenge Analyses
 ####Outcomes Based on Goal
-Breaking down the data to find the number of successful campaigns for plays by specific goal range shows that there is a higher percentage of successful campaigns for goals that are less than $20,000. There is another spike for goals between $35,000 and $45,000. However, the highest percentage of successful campaigns have goal amounts less than $5,000. Also, goal amounts of $45,000 to $49,999 had a 100% failure rate.
+Breaking down the data to find the number of successful campaigns for plays by specific goal range shows that there is a higher percentage of successful campaigns for goals that are less than $20,000. There is another spike for goals between $35,000 and $45,000. However, the highest percentage of successful campaigns have goal amounts less than $5,000. Also, goal amounts of $45,000 to $49,999 had a 100% failure rate. There were no canceled campaigns for plays, which is confirmed by the line at 0 on the graph.
 -While Louise's planned goal amount of $12,000 falls into the category of outlier, she still has a 54% chance of success.
 ![Outcome Based on Goal](/Users/jasminchermak/Desktop/Data Analytics Bootcamp/Analysis Projects/Crowdfunding Analysis/Outcome Based on Goal.png)
 
 ###Outcomes Based on Launch Date
-Looking again at the data for theater campaigns in all countries, May has the highest number of successful campaigns while December has the least.
+Looking again at the data for theater campaigns in all countries, May has the highest number of successful campaigns while December has the least. There is a very small number of canceled campaigns for most of the year, with a gap in October.
 ![Outcomes Based on Launch Date](/Users/jasminchermak/Desktop/Data Analytics Bootcamp/Analysis Projects/Crowdfunding Analysis/Outcomes Based on Launch_Challenge.png)
 
-Digging further into plays in the US, May still has the highest number of successful campaigns. This data shows that the number of successes stays strong through August.
+Digging further into plays in the US, May still has the highest number of successful campaigns. This data shows that the number of successes stays strong through August. Because there were no canceled campaigns for plays, the line was omitted.
 -The best time to launch would be in May.
   -June, July or August are also options for plays in the US.
 
