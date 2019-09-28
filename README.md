@@ -32,3 +32,21 @@ Based on the number of successful campaigns in theater, it would be reasonable f
    -Better to have a goal amount less than $6,000.
 3. The goal amount of 4,000 GBP for the musical is an outlier for both goal and pledged amounts.
    -Better to have a goal amount less than 2,000 GBP.
+
+###Challenge Analyses
+####Outcomes Based on Goal
+Breaking down the data to find the number of successful campaigns for plays by specific goal range shows that there is a higher percentage of successful campaigns for goals that are less than $20,000. There is another spike for goals between $35,000 and $45,000. However, the highest percentage of successful campaigns have goal amounts less than $5,000. Also, goal amounts of $45,000 to $49,999 had a 100% failure rate.
+-While Louise's planned goal amount of $12,000 falls into the category of outlier, she still has a 54% chance of success.
+![Outcome Based on Goal](/Users/jasminchermak/Desktop/Data Analytics Bootcamp/Analysis Projects/Crowdfunding Analysis/Outcome Based on Goal.png)
+
+###Outcomes Based on Launch Date
+Looking again at the data for theater campaigns in all countries, May has the highest number of successful campaigns while December has the least.
+![Outcomes Based on Launch Date](/Users/jasminchermak/Desktop/Data Analytics Bootcamp/Analysis Projects/Crowdfunding Analysis/Outcomes Based on Launch_Challenge.png)
+
+Digging further into plays in the US, May still has the highest number of successful campaigns. This data shows that the number of successes stays strong through August.
+-The best time to launch would be in May.
+  -June, July or August are also options for plays in the US.
+
+####Limitations and Suggestions for Additional Tables
+The categories and subcategories are very broad in the given dataset. There is no breakdown for genre, i.e. comedy or drama. There is also no sense of scope. For example, is this a one-woman show? How many acts are in the play?
+Besides digging into the launch dates by plays in the US, it might be useful to know the length of successful campaigns. This would tell Louise if shorter or longer campaigns were more successful. It might also give her an idea of how long she should expect her campaign to run.
