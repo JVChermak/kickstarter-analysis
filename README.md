@@ -22,7 +22,7 @@ Based on the data for successful and failed campaigns for plays in the US, the m
 
 ## Musicals in Great Britain
 The average goal amount for musicals in Great Britain is just over 4,000 GBP, shown by the x in the plot. This is much higher than pledged amounts without outliers. The median goal amount is 2,000 GBP, which is just over the upper quarter for pledged amounts. There is one outlier for each, shown by the dots, with a goal amount of 15,000 GBP and a pledged amount of 10,092 GBP.
-![Statistics for Musicals](/Users/jasminchermak/Desktop/Data Analytics Bootcamp/Analysis Projects/Crowdfunding Analysis/Box and Whisker_Musicals.png)
+![Statistics for Musicals](Box and Whisker_Musicals.png)
 
 ## Recommendations for Louise
 Based on the number of successful campaigns in theater, it would be reasonable for Louise to launch a Kickstarter for her play.
