@@ -1,6 +1,4 @@
-# kickstarter-analysis
-Analysis on Kickstarter data to uncover trends
-#Analysis of Kickstarter Campaigns
+# Analysis of Kickstarter Campaigns
 An analysis of various Kickstarter campaigns to see if there are trends based on category, subcategory, launch date, goal amount, and pledged amount for theater and plays. Brief analysis of data for musicals in Great Britain.
 
 ## Trends Based on Category
